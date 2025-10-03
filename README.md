@@ -38,7 +38,7 @@ A joystick-controlled **metal-detecting robot** with robust **radio communicatio
 | Extras               | Safety lights (turn/brake), optional DFPlayer Mini MP3 |
 
 ## Demo
-![Metal Detecting Robot](media/robot_photo.png)
+![Metal Detecting Robot](media/robot_photo.jpg)
 
 ## Credits
 Course: **UBC ELEC 291** • Team project (2024)  
